@@ -1,0 +1,7 @@
+R04944040 黃偉軒
+
+直接下指令 make 即可
+
+$ make 
+
+Note: 若有問題，記得安裝 Node.js v4.2.1 和 npm install

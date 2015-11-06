@@ -1,0 +1,15 @@
+{
+  "name": "hw2",
+  "version": "0.7.2",
+  "description": "",
+  "main": "p15.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wilson",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.2",
+    "node-tsv-json": "^0.2.1"
+  }
+}
